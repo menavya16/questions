@@ -3,14 +3,14 @@
     "question": "What is the full form of HTML",
     "answer" : "Hypertext Markup Language",
     "choices": {
-      "likes": ["Hypertext Markup Language", "hello"]
+      "options": ["Hypertext Markup Language", "hello"]
     }
   },
   {
     "question": "What is the full form of CSS",
     "answer" : "Cascading style sheet",
     "choices": {
-      "likes": ["Cascading style sheet", "cat see ship"]
+      "options": ["Cascading style sheet", "cat see ship"]
     }
   }
 ]
